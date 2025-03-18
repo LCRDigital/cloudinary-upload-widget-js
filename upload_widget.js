@@ -1,7 +1,7 @@
 const myWidget = cloudinary.createUploadWidget(
   {
-    cloudName: "YOUR_CLOUD_NAME",
-    uploadPreset: "YOUR_UNSIGNED_PRESET",
+    cloudName: "dut68koei",
+    uploadPreset: "TLCiQupload",
     sources: ["camera", "local"], // Only allow camera & local files
     multiple: true,              // (Optional) let them upload only one file at a time
     showAdvancedOptions: false,   // Hide advanced options like tags, etc.
